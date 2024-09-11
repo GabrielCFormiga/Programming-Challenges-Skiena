@@ -25,3 +25,4 @@ A lista abaixo contém os problemas resolvidos e não resolvidos, com links dire
 | --- | --- | --- |
 | [10038](https://vjudge.net/problem/UVA-10038) | Jolly Jumpers | ✅ |
 | [10315](https://vjudge.net/problem/UVA-10315) | Poker Hands | ✅ |
+| [10050](https://vjudge.net/problem/UVA-10050) | Hartals | ✅ |
