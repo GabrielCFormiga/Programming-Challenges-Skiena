@@ -23,5 +23,5 @@ A lista abaixo contém os problemas resolvidos e não resolvidos, com links dire
 
 | Problema | Nome | Status |
 | --- | --- | --- |
-| [10038](https://vjudge.net/problem/UVA-10038) | Jolly Jumpers | ❌ |
-| [10315](https://vjudge.net/problem/UVA-10315) | Poker Hands | ❌ |
+| [10038](https://vjudge.net/problem/UVA-10038) | Jolly Jumpers | ✅ |
+| [10315](https://vjudge.net/problem/UVA-10315) | Poker Hands | ✅ |
