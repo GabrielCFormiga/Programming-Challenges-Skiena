@@ -26,3 +26,8 @@ A lista abaixo contém os problemas resolvidos e não resolvidos, com links dire
 | [10038](https://vjudge.net/problem/UVA-10038) | Jolly Jumpers | ✅ |
 | [10315](https://vjudge.net/problem/UVA-10315) | Poker Hands | ✅ |
 | [10050](https://vjudge.net/problem/UVA-10050) | Hartals | ✅ |
+| [843](https://vjudge.net/problem/UVA-843) | Crypt Kicker | ❌ |
+| [10205](https://vjudge.net/problem/UVA-10205) | Stack 'em Up | ❌ |
+| [10044](https://vjudge.net/problem/UVA-10044) | Erdos Numbers | ❌ |
+| [10258](https://vjudge.net/problem/UVA-10258) | Contest Scoreboard | ❌ |
+| [10149](https://vjudge.net/problem/UVA-10149) | Yahtzee | ❌ |
