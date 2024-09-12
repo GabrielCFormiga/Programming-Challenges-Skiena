@@ -1,6 +1,6 @@
 # Programming Challenges - Skiena
 
-Este repositório contém as soluções para os problemas do livro *Programming Challenges* de Steven Skiena e Miguel Revilla.
+Este repositório contém as soluções para os problemas do livro [*Programming Challenges*](https://i.cs.hku.hk/~provinci/files/b2-programming_challenges.pdf) de Steven Skiena e Miguel Revilla.
 
 A lista abaixo contém os problemas resolvidos e não resolvidos, com links diretos para os enunciados.
 
